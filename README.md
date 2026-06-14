@@ -7,10 +7,10 @@
 ### Software Engineering student at HCMUTE
 ### Web technology enthusiast, full-stack builder, and practical problem solver
 
-I build web apps, booking systems, Android experiments, cloud demos, and coursework projects that slowly turn theory into working software. My GitHub is a mix of class projects, team repositories, experiments, and the occasional "wait, why does this work now?" commit.
+I build web apps, booking systems, Android experiments, cloud demos, and coursework projects that turn theory into working software.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sang--ute-181717?style=for-the-badge&logo=github)](https://github.com/sang-ute)
-[![Location](https://img.shields.io/badge/Ho%20Chi%20Minh%20City-Vietnam-0A66C2?style=for-the-badge)](https://github.com/sang-ute)
+[![Location](https://img.shields.io/badge/Thu%20Duc%20City-Vietnam-0A66C2?style=for-the-badge)](https://github.com/sang-ute)
 [![Focus](https://img.shields.io/badge/Focus-Software%20%26%20Web%20Technology-2EA44F?style=for-the-badge)](https://github.com/sang-ute)
 
 </div>
@@ -25,17 +25,17 @@ I build web apps, booking systems, Android experiments, cloud demos, and coursew
 - I enjoy learning by building: Android apps, security labs, DBMS systems, Windows desktop apps, AI demos, and team web projects.
 - My coding personality: practical first, curious always, with enough playfulness to keep debugging from becoming a courtroom drama.
 
-## Public Work Snapshot
+## GitHub Stats
 
-Public GitHub data shows work across personal repositories and collaborator/team repositories, not just repos owned by `sang-ute`.
+<div align="center">
 
-```txt
-Personal public repositories      13
-Visible public repos worked on    22
-Authored public pull requests     76
-Public PRs/issues involved        169
-Indexed public commits            900+
-```
+<img src="https://github-readme-stats.vercel.app/api?username=sang-ute&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=21600&v=2" alt="Nguyen Quang Sang GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sang-ute&layout=compact&theme=tokyonight&hide_border=true" alt="Nguyen Quang Sang top languages" />
+
+<img src="https://streak-stats.demolab.com?user=sang-ute&theme=tokyonight&hide_border=true" alt="Nguyen Quang Sang GitHub streak" />
+
+</div>
 
 ## Main Areas
 
@@ -97,34 +97,6 @@ I also keep a trail of Kotlin Android learning projects:
 - [Affirmations App](https://github.com/sang-ute/Affirmations_app_Mobile_Programming)
 - [Advanced Android Testing](https://github.com/sang-ute/22110067_Nguyen_Quang_Sang_Advanced_Android_Testing)
 
-## Collaboration Map
-
-My public activity includes work in these repositories:
-
-```txt
-sang-ute/*
-HLoc26/Vinabooking-New
-HLoc26/VinaBooking
-HLoc26/PROJECT-WEBPR
-HLoc26/PROJECT_IT_1
-HLoc26/PROJECT-DBMS
-HLoc26/PROJECT-Dasa
-HLoc26/battleshipAI
-PhatDos/Course-Management
-Bright-04/QuizCraft-API
-```
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sang-ute&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Nguyen Quang Sang GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sang-ute&layout=compact&theme=tokyonight&hide_border=true" alt="Nguyen Quang Sang top languages" />
-
-<img src="https://streak-stats.demolab.com?user=sang-ute&theme=tokyonight&hide_border=true" alt="Nguyen Quang Sang GitHub streak" />
-
-</div>
 
 ## What I Am Sharpening
 
@@ -136,13 +108,11 @@ Bright-04/QuizCraft-API
 
 ## Working Style
 
-```txt
-Think through the user flow.
-Make the data model honest.
-Keep the API predictable.
-Polish the UI until it stops arguing back.
-Document enough for the next person to move faster.
-```
+- Think through the user flow.
+- Make the data model honest.
+- Keep the API predictable.
+- Polish the UI until it stops arguing back.
+- Document enough for the next person to move faster.
 
 ---
 
