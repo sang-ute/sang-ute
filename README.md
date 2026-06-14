@@ -10,7 +10,7 @@
 I build web apps, booking systems, Android experiments, cloud demos, and coursework projects that slowly turn theory into working software. My GitHub is a mix of class projects, team repositories, experiments, and the occasional "wait, why does this work now?" commit.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sang--ute-181717?style=for-the-badge&logo=github)](https://github.com/sang-ute)
-[![Location](https://img.shields.io/badge/Thu%20Duc%20City-Vietnam-0A66C2?style=for-the-badge)](https://github.com/sang-ute)
+[![Location](https://img.shields.io/badge/Ho%20Chi%20Minh%20City-Vietnam-0A66C2?style=for-the-badge)](https://github.com/sang-ute)
 [![Focus](https://img.shields.io/badge/Focus-Software%20%26%20Web%20Technology-2EA44F?style=for-the-badge)](https://github.com/sang-ute)
 
 </div>
