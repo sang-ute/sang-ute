@@ -4,7 +4,7 @@
 
 # Nguyen Quang Sang
 
-### Software Engineering Intern [@Money Forward Vietnam](linkedin.com/company/money-forward-vietnam)
+### Software Engineering Intern [@Money Forward Vietnam](https://www.linkedin.com/company/money-forward-vietnam/)
 ### Web technology enthusiast, full-stack builder, and practical problem solver
 
 I build web apps, booking systems, Android experiments, cloud demos, and coursework projects that turn theory into working software.
