@@ -29,9 +29,9 @@ I build web apps, booking systems, Android experiments, cloud demos, and coursew
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sang-ute&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=21600&v=2" alt="Nguyen Quang Sang GitHub stats" />
+<img src="./profile/stats.svg" alt="Nguyen Quang Sang GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sang-ute&layout=compact&theme=tokyonight&hide_border=true" alt="Nguyen Quang Sang top languages" />
+<img src="./profile/top-langs.svg" alt="Nguyen Quang Sang top languages" />
 
 <img src="https://streak-stats.demolab.com?user=sang-ute&theme=tokyonight&hide_border=true" alt="Nguyen Quang Sang GitHub streak" />
 
